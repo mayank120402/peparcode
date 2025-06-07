@@ -1,0 +1,55 @@
+{
+  "quizTitle": "Computer Basics - Level 1",
+  "questions": [
+    {
+      "question": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Central Programming Unit", "Computer Personal Unit", "Central Power Unit"],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "question": "Which of the following is an input device?",
+      "options": ["Monitor", "Keyboard", "Speaker", "Printer"],
+      "answer": "Keyboard"
+    },
+    {
+      "question": "What type of computer memory is volatile?",
+      "options": ["ROM", "Hard Disk", "RAM", "SSD"],
+      "answer": "RAM"
+    },
+    {
+      "question": "Which one of these is an operating system?",
+      "options": ["Microsoft Word", "Windows 10", "Google", "Chrome"],
+      "answer": "Windows 10"
+    },
+    {
+      "question": "Which key is used to delete characters to the left of the cursor?",
+      "options": ["Delete", "Backspace", "Enter", "Shift"],
+      "answer": "Backspace"
+    },
+    {
+      "question": "What does URL stand for?",
+      "options": ["Uniform Resource Locator", "Universal Resource Location", "Uniform Reference Link", "User Reference Link"],
+      "answer": "Uniform Resource Locator"
+    },
+    {
+      "question": "Which of the following is not a storage device?",
+      "options": ["SSD", "CD", "RAM", "USB Drive"],
+      "answer": "RAM"
+    },
+    {
+      "question": "Which component connects a computer to a network?",
+      "options": ["Router", "Network Interface Card", "Scanner", "Modem"],
+      "answer": "Network Interface Card"
+    },
+    {
+      "question": "Which of these is a web browser?",
+      "options": ["Windows", "Google", "Firefox", "Yahoo"],
+      "answer": "Firefox"
+    },
+    {
+      "question": "Which file extension is associated with Microsoft Word documents?",
+      "options": [".xls", ".docx", ".ppt", ".exe"],
+      "answer": ".docx"
+    }
+  ]
+}
